@@ -66,6 +66,7 @@ font-weight: 500;
   font-size: 14px;
   font-weight: 700;
   color: #111118;
+  font-family: 'Fira Sans';
 }
 
 .invoice-info p{
@@ -101,18 +102,20 @@ font-weight: 500;
   color: #111118;
   font-family: 'Fira Sans';
 }
-.table-termConditions:nth-child(1){
+.table-termConditions h5{
 font-size: 12px;
 font-weight: 700;
 line-height: 12px;
 color: #111118;
+font-family: 'Fira Sans';
 }
-.table-termConditions:nth-child(2){
+.table-termConditions p{
   font-size: 12px;
 font-weight: 500;
 line-height: 12px;
 color: #111118;
 padding: 4px;
+font-family: 'Fira Sans';
 }
 .teble-conditions p{
 padding: 2px;
@@ -120,13 +123,19 @@ padding: 2px;
 .teble-conditions td{
   padding:4px;
 }
+
 .table-total-summry p{
   font-style: 14px;
   font-weight: 400;
   color: #111118;
   font-family: 'Fira Sans';
 }
-
+.table-total{
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+  font-family: 'Fira Sans';
+}
 .compony-info img{
 width: 59px;
 height: 17px;
