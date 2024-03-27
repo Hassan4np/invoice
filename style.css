@@ -44,6 +44,7 @@ body {
   font-weight: 700;
   Line-height:37.54px;
   position: relative;
+  font-family: 'Work Sans';
 }
 .table-header strong{
   font-size: 12px;
@@ -54,6 +55,7 @@ body {
   font-weight: 500;
   font-size: 12px;
   color:  #111118;
+  font-family: 'Fira Sans';
 }
 
 .table-bill th{
